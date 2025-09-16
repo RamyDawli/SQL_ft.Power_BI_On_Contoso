@@ -36,25 +36,25 @@ This is a **hobby project** to deepen my SQL skills, ft. Power BI. In this proje
 
 **Monthly Revenue Trends (2020–2024):**
 
-![Revenue_yearly](/Revenue.png)
+![Revenue_yearly](/Images/Revenue.png)
 
 - Sales in general tends to dip around **March** and **April**.
 
 **Revenue Distribution By product Category:**
 
-![Revenue_distribution](/revenue_by_category.png)
+![Revenue_distribution](/Images/revenue_by_category.png)
 
 - This visualization shows how product categories contribute to overall revenue. Categories like **Computers, TV and Video, and Cameras** are dominated by **high-revenue transactions**, making them core drivers of sales, while ategories like **Games and Toys** or **Audio** rely more on **low and medium-tier sales**, suggesting lower revenue concentration but possibly higher transaction volumes.
 
 **Customer Segmentation: Total Life Time Value:**
 
-![Customer_segmentation](/customer_segmentation.png)
+![Customer_segmentation](/Images/customer_segmentation.png)
 
 - Shows that the sales are relying mostly on high value customers, customer that spend the most
 
 **Active customers in the last 6 months:**
 
-![Customer_status](/customer_activation.png)
+![Customer_status](/Images/customer_activation.png)
 
 - Shows the percentage of active customer while **excluding new customers** from the last 6 months to avoid inflating activity rates. This helps distinguish truly active customers from recent first-time buyers.
 
