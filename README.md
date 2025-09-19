@@ -47,6 +47,12 @@ This is a **hobby project** to deepen my SQL skills, ft. Power BI. In this proje
 
 - This visualization shows how product categories contribute to overall revenue. Categories like **Computers, TV and Video, and Cameras** are dominated by **high-revenue transactions**, making them core drivers of sales, while ategories like **Games and Toys** or **Audio** rely more on **low and medium-tier sales**, suggesting lower revenue concentration but possibly higher transaction volumes.
 
+**Cohort Impact on Future Years Total Revenue**
+
+![Cohort_Year_Impact](/Images/Cohort_year_revenue.png)
+
+- Shows the impact of each cohort year (eg. the year a customer made their first purchase) on total revenue of future years. This shows bad retention of customers as the previous years cohorts are not contributing much to the revenue of future years.  
+
 **Customer Segmentation: Total Life Time Value:**
 
 ![Customer_segmentation](/Images/customer_segmentation.png)
