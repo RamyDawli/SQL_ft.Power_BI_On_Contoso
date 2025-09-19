@@ -15,8 +15,9 @@ This is a **hobby project** to deepen my SQL skills, ft. Power BI. In this proje
 
 | File                               | Description                                                    |
 | ---------------------------------- | -------------------------------------------------------------- |
-| `revenue_performance_analysis.sql` | Revenue trends, product performance, and sales metrics         |
-| `customer_analysis.sql`            | Customer behavior, retention, lifetime value, and segmentation |
+| `_1_EDA_Contoso.sql`                  | Exploratory queries on Contoso dataset indluding (customer, stores, products, categories)|
+| `_2_Revenue_Performance_Analysis.sql` | Revenue trends, product performance, and sales metrics         |
+| `_3_Customer_Analysis.sql`            | Customer behavior, retention, lifetime value, and segmentation |
 
 ---
 
